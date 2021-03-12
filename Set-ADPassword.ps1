@@ -7,8 +7,6 @@ function Set-ADPassword {
       [Parameter(Mandatory)]
       [string]$username,
 
- 
-
       #New Password
       [Parameter(Mandatory)]
       [SecureString]$password
