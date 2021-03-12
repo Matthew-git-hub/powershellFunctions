@@ -1,3 +1,3 @@
-# powershellCmdlets
+# powershellFunctions
 
-Powershell Cmdlets written to make regularly performed tasks easier&quicker
+Powershell Functions written to make regularly performed tasks easier&quicker
