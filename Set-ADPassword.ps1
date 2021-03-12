@@ -2,10 +2,10 @@
 .SYNOPSIS
 This cmdlet is for easily reseting an active directory users password
 
-.PARAMETER Username
+.PARAMETER username
 Enter a string containing the domain or workgroup of the user and the username or in some cases just the username.    
                
-.PARAMETER Passwd
+.PARAMETER password
 Enter the string value of the users new password    
 #>
 
